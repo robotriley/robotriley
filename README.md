@@ -4,7 +4,9 @@
 <body>
 <img src="public/GHheader2.png" />
 <h1>Hi! I'm Riley.</h1>
-<p>I'm a full stack software enginger living in New York City.</p>
+<p>Full stack software enginger, bootcamp graduate from Flatiron School living in New York City.</p>
+<p>I’ve been in acting, writing and producing live and televised comedy for ten years. I’m excited to combine my communication/writing skills with software engineering to help creative people make more and better art.
+</p>
 <div className="imgDiv">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25px" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25px" width="25px" />  
