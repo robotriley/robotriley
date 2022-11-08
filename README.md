@@ -3,7 +3,8 @@
 </head>
 <body>
 <img src="public/GHheader2.png" />
-Hi! I'm Riley Soloner. I'm a full stack software enginger living in New York City. 
+<h1>Hi! I'm Riley.</h1>
+<p>I'm a full stack software enginger living in New York City.</p>
 <div className="imgDiv">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25px" width="25px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25px" width="25px" />  
