@@ -6,7 +6,7 @@
 <h1>Hi! I'm Riley.</h1>
 <p>Full stack software enginger, bootcamp graduate from Flatiron School living in New York City.</p>
 <p>I’ve been in acting, writing and producing live and televised comedy for ten years. I’m excited to combine my communication/writing skills with software engineering to help creative people make more and better art.
-<br />
+<br /><br />
 Currently Learning: Data Structures and Algorithmic Problem Solving.
 </p>
 <div className="imgDiv">
